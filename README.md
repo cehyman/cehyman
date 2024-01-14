@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte/Sveltekit**
 
-- 👨‍💻 Checkout my website [chrishy.net](chrishy.net)
+- 👨‍💻 Checkout my website: [chrishy.net](chrishy.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
